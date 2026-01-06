@@ -1,0 +1,1 @@
+BLOCKLIST = set()  # Set of JWT IDs that have been revoked
